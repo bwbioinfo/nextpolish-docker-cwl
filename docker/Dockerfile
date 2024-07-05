@@ -41,3 +41,5 @@ RUN nextPolish --version
 
 # Set the command
 CMD ["nextPolish"]
+
+# docker build -f docker/Dockerfile -t nextpolish-test .
